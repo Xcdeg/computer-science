@@ -1,4 +1,4 @@
-# 万维网：我们的能力
+# 万维网：我们的技能
 
 1. [计算机科学](./computer-science/README.md)
 2. [万维网技术](./web-technology/README.md)
