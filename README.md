@@ -1,4 +1,4 @@
-# 万维网：我们的技能
+# 万维网：我们的优势
 
 1. [计算机科学](./computer-science/README.md)
 2. [万维网技术](./web-technology/README.md)
