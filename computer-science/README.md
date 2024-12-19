@@ -25,7 +25,7 @@
 - Path finding
   - Dijkstra's algorithm
 
-## 元素和设计模式[[1]](./appendices/element-interface-and-element-implementation.md)[[2]](./appendices/object-composition-class-inheritance-and-class-overloading.md)
+## 元素和设计模式[[2]](./appendices/element-interface-and-element-implementation.md)[[3]](./appendices/object-composition-class-inheritance-and-class-overloading.md)
 
 - 创建型
   - Factory
@@ -53,13 +53,13 @@
   - Template method
   - Visitor
 
-## 专用处理系统[[1]](./appendices/interrupt-handling.md)
+## 专用处理系统
 
 - CU, ALU and registers
 - RAM
 - ROM and interrupt handlers
 
-## 通用处理系统[[1]](./appendices/byte-addressing.md)[[2]](./appendices/interrupt-handling.md)[[3]](./appendices/multi-threaded-programming-and-event-driven-programming.md)
+## 通用处理系统[[4]](./appendices/byte-addressing.md)[[5]](./appendices/interrupt-handling.md)[[6]](./appendices/multi-threaded-programming-and-event-driven-programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
