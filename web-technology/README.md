@@ -1,14 +1,5 @@
 # 万维网技术
 
-## [FreeBSD](https://www.freebsd.org)
-
-- Language: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
-- Style: [Google Shell style guide](https://google.github.io/styleguide/shellguide.html)
-- Formatter: [shfmt](https://github.com/mvdan/sh#shfmt)
-- Linter: [ShellCheck](https://www.shellcheck.net)
-- Compiler: None
-- Bundler: None
-
 ## [MySQL](https://www.mysql.com)
 
 - Language: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
