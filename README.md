@@ -1,4 +1,4 @@
-# Computer Science
+# Computer science
 
 ## 算术逻辑运算
 
