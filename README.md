@@ -22,8 +22,6 @@
   - Inverted index
 - Numeric sorting
   - Various numeric sorting algorithms
-- Path finding
-  - Dijkstra's algorithm
 
 ## 元素和设计模式[[2]](./appendices/element-interface-and-element-implementation.md)[[3]](./appendices/object-composition-class-inheritance-and-class-overloading.md)
 
