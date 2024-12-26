@@ -12,14 +12,12 @@
 
 ## 数据结构和算法[[1]](./appendices/array-based-data-structure-and-node-based-data-structure.md)
 
-- Storing
+- Collective Storing
   - Array
   - Chain
 - Equality indexing
   - Array subscripting, hashing
   - Skip list, search tree
-- Full-text indexing
-  - Inverted index
 - Numeric sorting
   - Various numeric sorting algorithms
 
