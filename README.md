@@ -12,7 +12,7 @@
 
 ## 数据结构和算法[[1]](./appendices/array-based-data-structure-and-node-based-data-structure.md)
 
-- Collective Storing
+- Collection Storing
   - Array
   - Chain
 - Equality indexing
