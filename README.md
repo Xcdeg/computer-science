@@ -1,4 +1,4 @@
-# Computer science
+# 计算机科学
 
 ## 二进制算术逻辑运算
 
