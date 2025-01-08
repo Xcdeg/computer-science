@@ -55,7 +55,7 @@
 - RAM
 - ROM and interrupt handlers
 
-## 通用处理系统[[4]](./appendices/byte-addressing.md)[[5]](./appendices/interrupt-handling.md)[[6]](./appendices/multi-threaded-programming-and-event-driven-programming.md)
+## 通用处理系统[[4]](./appendices/byte-addressing.md)[[5]](./appendices/interrupt-handling.md)[[6]](./appendices/prethreading-programming-and-event-driven-programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
