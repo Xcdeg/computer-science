@@ -1,4 +1,4 @@
-# 预线程化编程和事件驱动编程
+# Prethreading programming vs event-driven programming
 
-- Prethreading programming is good at handling parallel computing tasks, but is bad at handling event waiting tasks.
-- Event-driven programming is good at handling event waiting tasks, but is bad at handling parallel computing tasks.
+- 预线程化编程 is good at handling parallel computing tasks, but is bad at handling event waiting tasks.
+- 事件驱动编程 is good at handling event waiting tasks, but is bad at handling parallel computing tasks.
