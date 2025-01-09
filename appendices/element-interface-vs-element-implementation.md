@@ -1,3 +1,3 @@
 # Element interface vs element implementation
 
-- 先输出元素接口，后输出元素实现。
+- 先给出元素的接口，后给出元素的实现。
