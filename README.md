@@ -10,7 +10,7 @@
 - 把汇编语言程序编译成机器语言程序
 - 把高级语言程序编译成汇编语言程序
 
-## 数据结构和算法[[1]](./appendices/array-based-data-structure-vs-node-based-data-structure.md)
+## 数据结构和算法[[1]](./appendices/array-based-data-structure-vs-chain-based-data-structure.md)
 
 - Collection Storing
   - Array
@@ -55,7 +55,7 @@
 - RAM
 - ROM and interrupt handlers
 
-## 通用处理系统[[4]](./appendices/byte-addressing.md)[[5]](./appendices/interrupt-handling.md)[[6]](./appendices/prethreading-programming-vs-event-driven-programming.md)
+## 通用处理系统[[4]](./appendices/byte-addressing.md)[[5]](./appendices/interrupt-handling.md)[[6]](./appendices/pre-threading-programming-vs-event-driven-programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
