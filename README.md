@@ -48,13 +48,13 @@
   - Template method
   - Visitor
 
-## 专用处理系统
+## 专用处理系统[[4]](./appendices/interrupt-handling.md)
 
 - CU, ALU and registers
 - RAM
 - ROM and interrupt handlers
 
-## 通用处理系统[[4]](./appendices/byte-addressing.md)[[5]](./appendices/interrupt-handling.md)[[6]](./appendices/pre-threading-programming-vs-event-driven-programming.md)
+## 通用处理系统[[5]](./appendices/byte-addressing.md)[[6]](./appendices/interrupt-handling.md)[[7]](./appendices/pre-threading-programming-vs-event-driven-programming.md)
 - CU, ALU and registers
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
