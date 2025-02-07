@@ -15,7 +15,7 @@
   - Array
   - Chain
 - Equality indexing
-  - Array subscripting, hashing
+  - Array, hash
   - Search tree, skip list
 - Numeric sorting
   - Various numeric sorting algorithms
