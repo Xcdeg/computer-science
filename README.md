@@ -61,7 +61,7 @@
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
 
-## 网络子系统
+## 网络系统
 
 - 信号层
 - 帧层
