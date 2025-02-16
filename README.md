@@ -9,7 +9,7 @@
 - 把汇编语言程序编译成机器语言程序
 - 把高级语言程序编译成汇编语言程序
 
-## 编程
+## 高级语言编程
 
 ### 数据结构和算法[[1]](./appendices/array-based-data-structure-vs-chain-based-data-structure.md)
 
