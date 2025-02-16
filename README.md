@@ -9,7 +9,9 @@
 - 把汇编语言程序编译成机器语言程序
 - 把高级语言程序编译成汇编语言程序
 
-## 数据结构和算法[[1]](./appendices/array-based-data-structure-vs-chain-based-data-structure.md)
+## 编程
+
+### 数据结构和算法[[1]](./appendices/array-based-data-structure-vs-chain-based-data-structure.md)
 
 - Collection Storing
   - Array
@@ -20,7 +22,7 @@
 - Numeric sorting
   - Various numeric sorting algorithms
 
-## 元素和设计模式[[2]](./appendices/element-interface-vs-element-implementation.md)[[3]](./appendices/object-composition-vs-class-inheritance-and-overloading.md)
+### 元素和设计模式[[2]](./appendices/element-interface-vs-element-implementation.md)[[3]](./appendices/object-composition-vs-class-inheritance-and-overloading.md)
 
 - 创建型
   - Factory
@@ -59,7 +61,7 @@
 - MMU, page tables and RAM
 - ROM, interrupt handlers and apps
 
-## 网络
+## 网络子系统
 
 - 信号层
 - 帧层
