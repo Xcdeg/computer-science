@@ -17,7 +17,7 @@
   - Array
   - Chain
 - Equality indexing
-  - Array, hash
+  - Array and hash
   - Search tree
 - Numeric sorting
   - Various numeric sorting algorithms
