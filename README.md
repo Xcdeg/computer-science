@@ -13,14 +13,17 @@
 
 ### 数据结构和算法[[1]](./appendices/array-based-data-structure-vs-chain-based-data-structure.md)
 
-- Collection Storing
-  - Array
-  - Chain
-- Equality indexing
-  - Array and hash table
-  - Search tree
-- Numeric sorting
-  - Various numeric sorting algorithms
+- Storing
+  - Collection Storing
+    - Array
+    - Chain
+- Indexing
+  - Equality indexing
+    - Array and hash table
+    - Search tree
+- Sorting
+  - Numeric sorting
+    - Various numeric sorting algorithms
 
 ### 元素和设计模式[[2]](./appendices/element-interface-vs-element-implementation.md)[[3]](./appendices/object-composition-vs-class-inheritance-and-overloading.md)
 
